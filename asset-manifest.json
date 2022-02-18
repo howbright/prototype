@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/prototype/static/css/main.073c9b0a.css",
+    "main.js": "/prototype/static/js/main.f10c67e3.js",
+    "static/js/787.d1fc94c6.chunk.js": "/prototype/static/js/787.d1fc94c6.chunk.js",
+    "static/media/comake_logo_white.png": "/prototype/static/media/comake_logo_white.1a7725e7e3bf4dce5ff4.png",
+    "index.html": "/prototype/index.html",
+    "main.073c9b0a.css.map": "/prototype/static/css/main.073c9b0a.css.map",
+    "main.f10c67e3.js.map": "/prototype/static/js/main.f10c67e3.js.map",
+    "787.d1fc94c6.chunk.js.map": "/prototype/static/js/787.d1fc94c6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f10c67e3.js"
+  ]
+}
