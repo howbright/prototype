@@ -34,6 +34,9 @@ const App: React.FunctionComponent<IApplicatinoProps> = (props) => {
   return (
     <ThemeProvider theme={theme}>
         <Routes>
+          <Route path='/' element={<HomePage></HomePage>}>
+              <Route path=':page' element={<HomePage></HomePage>}></Route>
+          </Route>
           <Route path='/home' element={<HomePage></HomePage>}>
               <Route path=':page' element={<HomePage></HomePage>}></Route>
           </Route>
